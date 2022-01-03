@@ -117,7 +117,6 @@
     background-color: #100c08;
     height: 40%;
     width: 100%;
-    border-top: 2px solid white;
     font-family: 'Skranji', cursive;
   }
   
@@ -128,7 +127,7 @@
     background-color: white;
     padding: 0.1rem 1.5rem;
     text-align: center;
-    top: 50%;
+    top: 53%;
     left: 34%;
     text-shadow:2px 2px grey;
     border-radius: 4px;
